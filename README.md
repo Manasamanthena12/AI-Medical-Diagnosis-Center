@@ -36,7 +36,7 @@ Here’s what we used to build the app:
 ## Try the App Online 🌐
 
 You can use the app right now on Streamlit Cloud:  
-Access the app here: [AI Medical Diagnosis Center](https://ai-medical-diagnosis-center-a3gebhu8wrzbswmfy4i7d3.streamlit.app/)
+Access the app here: [AI Medical Diagnosis Center](https://ai-medical-diagnosis-center.streamlit.app/)
 ## Set Up the App on Your Computer 💻
 
 Want to run the app on your own computer? Follow these steps:
