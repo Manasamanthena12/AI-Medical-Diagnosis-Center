@@ -37,14 +37,3 @@ Here’s what we used to build the app:
 
 You can use the app right now on Streamlit Cloud:  
 Access the app here: [AI Medical Diagnosis Center](https://ai-medical-diagnosis-center.streamlit.app/)
-## Set Up the App on Your Computer 💻
-
-Want to run the app on your own computer? Follow these steps:
-
-### Things You Need
-- Python 3.8 or higher.
-- Git to download the project.
-
-### Steps to Run
-1. **Download the Project**  
-   Open a terminal and type:  
